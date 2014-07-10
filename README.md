@@ -1,4 +1,4 @@
 Soliflux
 ========
 
-Libraries for handling mass wasting and other landslide-related data
+Demo repository featuring ibraries to handle mass wasting and other landslide-related data
